@@ -16,8 +16,8 @@
       	le entregue el administrador de AWS
        -->
      <bean class="com.vortexbird.aws.s3.VortexAWSCredentials" id="vortexAWSCredentials">
-     	<property name="AWSAccessKeyId" 	value="AKIARTEPSBXNVDHJ3IQC"/>
-     	<property name="AWSSecretKey" 	value="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"/>
+     	<property name="AWSAccessKeyId" 	value=""/>
+     	<property name="AWSSecretKey" 	value=""/>
      	<property name="region" 			value="us-east-1"/>
      </bean>
 
